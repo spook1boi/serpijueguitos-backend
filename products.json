@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "Elden Ring",
+    "description": "Déjate guiar por la gracia para esgrimir el poder del Elden Ring y convertirte en un Señor de Elden en las Tierras Intermedias.",
+    "code": "P001",
+    "price": 43000,
+    "status": true,
+    "stock": 999,
+    "category": "Aventura",
+    "thumbnails": "../public/img/elden-ring.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Street Fighter 6",
+    "description": "¡Aquí llega el peso pesado de Capcom! Incluye tres modos de juego: World Tour, Fighting Ground y Battle Hub.",
+    "code": "P002",
+    "price": 49900,
+    "status": true,
+    "stock": 999,
+    "category": "Lucha",
+    "thumbnails": "../public/img/street-fighter.jpg"
+  },
+  {
+    "id": 3,
+    "title": "STAR WARS Jedi: Survivor",
+    "description": "La historia de Cal Kestis continúa en STAR WARS Jedi: Survivor, un juego de acción en tercera persona de proporciones galácticas.",
+    "code": "P003",
+    "price": 43000,
+    "status": true,
+    "stock": 999,
+    "category": "Aventura",
+    "thumbnails": "../public/img/sw-jedisurv.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Call of Duty: Modern Warfare II",
+    "description": "En Call of Duty: Modern Warfare® II, los jugadores se verán inmersos en un conflicto a escala global sin precedentes",
+    "code": "P004",
+    "price": 54990,
+    "status": true,
+    "stock": 999,
+    "category": "FPS",
+    "thumbnails": "../public/img/mw2.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Remnant II",
+    "description": "Enfrenta a los supervivientes de la humanidad contra nuevas criaturas mortíferas y jefes divinos en mundos aterradores.",
+    "code": "P005",
+    "price": 28500,
+    "status": true,
+    "stock": 999,
+    "category": "Aventura",
+    "thumbnails": "../public/img/remnant2.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Legend Of Zelda: Tears Of The Kingdom",
+    "description": "En esta secuela, decidirás tu propio camino a través de los extensos paisajes de Hyrule y las islas que flotan en los vastos cielos.",
+    "code": "P006",
+    "price": 72900,
+    "status": true,
+    "stock": 999,
+    "category": "Aventura",
+    "thumbnails": "../public/img/tloz-totk.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Mortal Kombat 1",
+    "description": "Descubre un nuevo universo de Mortal Kombat creado por Liu Kang, Dios del Fuego.",
+    "code": "P007",
+    "price": 40900,
+    "status": true,
+    "stock": 999,
+    "category": "Lucha",
+    "thumbnails": "../public/img/mortalkombat1.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Tom Clancy's Rainbow Six: Siege",
+    "description": "Shooter táctico realista por equipos donde una cuidadosa planificación y ejecución son claves para la victoria.",
+    "code": "P008",
+    "price": 54990,
+    "status": true,
+    "stock": 999,
+    "category": "FPS",
+    "thumbnails": "../public/img/rainbowSixSiege.png"
+  },
+  {
+    "id": 9,
+    "title": "Blasphemous 2",
+    "description": "El Penitente se despierta una vez más para librar una lucha sin fin contra el Milagro en Blasphemous 2.",
+    "code": "P009",
+    "price": 23900,
+    "status": true,
+    "stock": 999,
+    "category": "Aventura",
+    "thumbnails": "../public/img/blasphemous2.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Hollow Knight: Silksong",
+    "description": "La secuela de la galardonada aventura de acción. Explora, lucha y sobrevive mientras asciendes a la cima de una tierra gobernada por Silk y Song.",
+    "code": "P010",
+    "price": 23490,
+    "status": true,
+    "stock": 999,
+    "category": "Aventura",
+    "thumbnails": "../public/img/silksong.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Battlefield V",
+    "description": "Vive el mayor conflicto de la humanidad con un completo arsenal de armas, vehículos y dispositivos tecnológicos.",
+    "code": "P011",
+    "price": 39900,
+    "status": true,
+    "stock": 999,
+    "category": "FPS",
+    "thumbnails": "../public/img/battelfieldV.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Mortal Kombat 11",
+    "description": "Mortal Kombat ha regresado mejor que nunca en esta entrega de la icónica saga.",
+    "code": "P012",
+    "price": 37999,
+    "status": true,
+    "stock": 999,
+    "category": "Lucha",
+    "thumbnails": "../public/img/mortalkombat11.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Hunt: Showdown",
+    "description": "Elimina monstruos de pesadilla, mientras compites por las recompensas que te llevarán a alcanzar la gloria, el equipo y el oro en esta experiencia multijugador online implacable e inolvidable.",
+    "code": "P013",
+    "price": 18900,
+    "status": true,
+    "stock": 999,
+    "category": "FPS",
+    "thumbnails": "../public/img/huntshowdown.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Cyberpunk 2077",
+    "description": "RPG de aventura y acción de mundo abierto ambientado en el futuro sombrío de Night City, una peligrosa megalópolis obsesionada con el poder, el glamur y las incesantes modificaciones corporales.",
+    "code": "P014",
+    "price": 39999,
+    "status": true,
+    "stock": 999,
+    "category": "FPS",
+    "thumbnails": "../public/img/cyberpunk.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Metro Exodus",
+    "description": "Huye de las ruinas devastadas del metro de Moscú y embárcate en un viaje épico por todo el continente en las estepas de la Rusia postapocalíptica.",
+    "code": "P015",
+    "price": 17249,
+    "status": true,
+    "stock": 999,
+    "category": "FPS",
+    "thumbnails": "../public/img/metroexodus.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Dragon Ball FighterZ",
+    "description": "DRAGON BALL FighterZ nace de lo que hace a la serie DRAGON BALL tan famosa: luchas espectaculares e interminables con luchadores superpoderosos.",
+    "code": "P016",
+    "price": 38499,
+    "status": true,
+    "stock": 999,
+    "category": "Lucha",
+    "thumbnails": "../public/img/dbfighterz.jpg"
+  }
+]
