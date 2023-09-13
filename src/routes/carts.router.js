@@ -72,7 +72,6 @@ router.put('/:cid/products/:pid', async (req, res) => {
   }
 });
 
-// Delete route still not working
 router.delete('/:cid/products/:pid', async (req, res) => {
   try {
     const cartId = parseInt(req.params.cid);
