@@ -58,8 +58,6 @@ class CartManager {
     return cart;
   }
 
-  //arreglar
-
   async removeProductFromCart(cartId, productId) {
     const cart = await this.getCartById(cartId);
 
